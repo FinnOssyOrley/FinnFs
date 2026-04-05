@@ -1,1 +1,7 @@
 pyfuse3
+trio
+argparse
+sqlite3
+faulthandler
+errno
+os

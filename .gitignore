@@ -1,1 +1,6 @@
 .venv
+data/db/*
+data/content/*
+!data/db/.gitkeep
+!data/content/.gitkeep
+!data/mountpoint/.gitkeep

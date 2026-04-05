@@ -1,3 +1,5 @@
 copyright 2026 Finn Ossy-Orley
 
-FinnFs is an immutable, non-heirachal filesystem built on FUSE. This is my hobby project and is primarily designed for myself to use, but I hope it can be useful to other people as well.
+FinnFs is an immutable, non-heirachal filesystem built on FUSE. 
+
+This is my hobby project and is primarily designed for myself to use, but I hope it can be useful to other people as well.
